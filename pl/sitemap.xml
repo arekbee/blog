@@ -3,89 +3,89 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/pl/</loc>
+    <loc>https://arekbee.github.io/blog/pl/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://arekbee.github.io/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/"
+                href="https://arekbee.github.io/blog/pl/"
                 />
   </url>
   
   <url>
-    <loc>/pl/posts/english/</loc>
+    <loc>https://arekbee.github.io/blog/pl/posts/english/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/posts/english/"
+                href="https://arekbee.github.io/blog/posts/english/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/posts/english/"
+                href="https://arekbee.github.io/blog/pl/posts/english/"
                 />
   </url>
   
   <url>
-    <loc>/pl/posts/</loc>
+    <loc>https://arekbee.github.io/blog/pl/posts/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/posts/"
+                href="https://arekbee.github.io/blog/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/posts/"
+                href="https://arekbee.github.io/blog/pl/posts/"
                 />
   </url>
   
   <url>
-    <loc>/pl/categories/</loc>
+    <loc>https://arekbee.github.io/blog/pl/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://arekbee.github.io/blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/categories/"
+                href="https://arekbee.github.io/blog/pl/categories/"
                 />
   </url>
   
   <url>
-    <loc>/pl/series/</loc>
+    <loc>https://arekbee.github.io/blog/pl/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series/"
+                href="https://arekbee.github.io/blog/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/series/"
+                href="https://arekbee.github.io/blog/pl/series/"
                 />
   </url>
   
   <url>
-    <loc>/pl/tags/</loc>
+    <loc>https://arekbee.github.io/blog/pl/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://arekbee.github.io/blog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/tags/"
+                href="https://arekbee.github.io/blog/pl/tags/"
                 />
   </url>
   
