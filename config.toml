@@ -1,4 +1,4 @@
-baseurl = "" #"http://arekonsoftware.pl/"
+baseurl = "https://arekbee.github.io" #"http://arekonsoftware.pl/"
 title = "Arek On Software"
 
 theme = "hugo-coder"
@@ -16,7 +16,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Arek Bee"
-    description = "Arek Bee's personal website"
+    description = "Arek's personal website"
     keywords = "blog,developer,game"
    
     avatarurl = "images/avatar.jpg"
