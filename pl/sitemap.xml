@@ -3,89 +3,89 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://arekbee.github.io/blog/pl/</loc>
+    <loc>https://arekbee.github.io/pl/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://arekbee.github.io/blog/"
+                href="https://arekbee.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://arekbee.github.io/blog/pl/"
+                href="https://arekbee.github.io/pl/"
                 />
   </url>
   
   <url>
-    <loc>https://arekbee.github.io/blog/pl/posts/english/</loc>
+    <loc>https://arekbee.github.io/pl/posts/english/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://arekbee.github.io/blog/posts/english/"
+                href="https://arekbee.github.io/posts/english/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://arekbee.github.io/blog/pl/posts/english/"
+                href="https://arekbee.github.io/pl/posts/english/"
                 />
   </url>
   
   <url>
-    <loc>https://arekbee.github.io/blog/pl/posts/</loc>
+    <loc>https://arekbee.github.io/pl/posts/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://arekbee.github.io/blog/posts/"
+                href="https://arekbee.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://arekbee.github.io/blog/pl/posts/"
+                href="https://arekbee.github.io/pl/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://arekbee.github.io/blog/pl/categories/</loc>
+    <loc>https://arekbee.github.io/pl/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://arekbee.github.io/blog/categories/"
+                href="https://arekbee.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://arekbee.github.io/blog/pl/categories/"
+                href="https://arekbee.github.io/pl/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://arekbee.github.io/blog/pl/series/</loc>
+    <loc>https://arekbee.github.io/pl/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://arekbee.github.io/blog/series/"
+                href="https://arekbee.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://arekbee.github.io/blog/pl/series/"
+                href="https://arekbee.github.io/pl/series/"
                 />
   </url>
   
   <url>
-    <loc>https://arekbee.github.io/blog/pl/tags/</loc>
+    <loc>https://arekbee.github.io/pl/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://arekbee.github.io/blog/tags/"
+                href="https://arekbee.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://arekbee.github.io/blog/pl/tags/"
+                href="https://arekbee.github.io/pl/tags/"
                 />
   </url>
   
