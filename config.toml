@@ -1,4 +1,4 @@
-baseurl = "https://arekbee.github.io" #"http://arekonsoftware.pl/"
+baseurl = "https://arekbee.github.io/blog" #"http://arekonsoftware.pl/"
 title = "Arek On Software"
 
 theme = "hugo-coder"
