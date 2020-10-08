@@ -1,4 +1,4 @@
-baseurl = "http://arekonsoftware.pl/"
+baseurl = "" #"http://arekonsoftware.pl/"
 title = "Arek On Software"
 
 theme = "hugo-coder"
