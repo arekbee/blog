@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
     author = "Arek Bee"
     description = "Arek's personal website"
     keywords = "blog,developer,game"
-   
+
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = "Enter a text here."
@@ -63,7 +63,7 @@ disqusShortname = "yourdiscussshortname"
     siteID = "ABCDE"
     # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
     serverURL = "analytics.example.com"
-    
+
 # If you want to use plausible(https://plausible.io) for analytics, add this section
 [params.plausibleAnalytics]
     domain = "example.com"
@@ -102,7 +102,7 @@ disqusShortname = "yourdiscussshortname"
         [languages.en.params]
             info = "Full Stack DevOps and Magician"
             description = "Arek Bee's personal website"
-            
+
         [languages.en.menu]
 
             [[languages.en.menu.main]]
@@ -135,6 +135,6 @@ disqusShortname = "yourdiscussshortname"
 
         [languages.pl.menu]
             [[languages.pl.menu.main]]
-                name = "Blog"
+                name = "Wpisy"
                 weight = 1.0
                 url = "pl/posts"
