@@ -16,13 +16,13 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Arek Bee"
+    author = "Arek Beer"
     description = "Arek's personal website"
-    keywords = "blog,developer,game"
+    keywords = "blog,developer,devops,cloud,automation,dotnet"
 
     avatarurl = "images/avatar.jpg"
-    #gravatar = "john.doe@example.com"
-    footercontent = "Enter a text here."
+    #gravatar = ""
+    footercontent = "Be the best version of yourself."
 
     dateformat = "January 2, 2006"
 
@@ -100,7 +100,7 @@ disqusShortname = "yourdiscussshortname"
         languagecode = "en"
 
         [languages.en.params]
-            info = "Full Stack DevOps and Magician"
+            info = "DevOps"
             description = "Arek Bee's personal website"
 
         [languages.en.menu]
