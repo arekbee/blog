@@ -11,4 +11,4 @@ My extensive experience and expertise allow me to provide my clients with the be
 
 If you are looking for a software developer who is dedicated, knowledgeable, and client-focused, then look no further. I am currently searching for clients who would like to work with me, my team, and my company. Let's work together to build the best possible solutions for your business.
 
-Thank you for taking the time to read my profile. Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arkadiusz-beer-56a11152/) or to learn more about my experience and expertise from [projects page](/projects/). You can download [my CV from this link](/files/CV_Arkadiusz_Beer.pdf).
+Thank you for taking the time to read my profile. Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arkadiusz-beer-56a11152/) or to learn more about my experience and expertise from [projects page](/projects/). You can download [my CV from this link](/files/CV.pdf).
