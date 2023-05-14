@@ -92,6 +92,11 @@ disqusShortname = "arekonsoftware"
     url = "http://arekonsoftware.pl/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
+[[params.social]]
+    name = "calendly"
+    icon = "fa fa-calendar"
+    weight = 7
+    url = "https://calendly.com/bnbsystemsltd/15min"
 
 
 [languages]
@@ -130,8 +135,8 @@ disqusShortname = "arekonsoftware"
         languagename = "Po Polsku"
 
         [languages.pl.params]
+            info = "DevOps"
             description = "Moja prywatna strona"
-            info = "IT Mocarz"
 
         [languages.pl.menu]
             [[languages.pl.menu.main]]
